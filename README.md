@@ -14,7 +14,7 @@ This repository serves several purposes:
 
 ### 1. Problem-Solving Fundamentals
 
-#### [Approaching a Problem](problem-solving/approach.md)
+#### [Approaching a Problem](1_INTRODUCTION TO PROGRAMMING/introduction.md)
 
 Learn effective strategies for approaching programming problems logically and systematically.
 
