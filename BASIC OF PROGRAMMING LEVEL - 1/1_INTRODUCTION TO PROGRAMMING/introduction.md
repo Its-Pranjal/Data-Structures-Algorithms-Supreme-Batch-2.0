@@ -1,6 +1,6 @@
-Certainly! Below is a Markdown file containing the described process for adding two numbers, including steps, constraints, and examples:
 
-```markdown
+
+```
 # Adding Two Numbers - Algorithm and Flowchart
 
 ## Steps to Approach the Problem:
@@ -58,7 +58,7 @@ int main() {
 ## Flowchart:
 Flowcharts are visual representations of algorithms using shapes and arrows to depict steps and decision points.
 
-_(Insert Flowchart Image Here)_
+
 
 ## Pseudocode:
 Pseudocode is an informal language combining natural language and programming constructs to describe algorithms in a human-readable way.
